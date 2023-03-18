@@ -1,6 +1,7 @@
 # Mortomuitolouco
+[![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/bruzistico/mortomuitolouco/blob/main/LICENSE.md) [![Version](https://img.shields.io/badge/Release-1.0-red.svg?maxAge=259200)]() [![Build](https://img.shields.io/badge/Supported_OS-Linux-yellow.svg)]()  [![Build](https://img.shields.io/badge/Supported_WSL-Windows-blue.svg)]() [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bruzistico/mortomuitolouco/issues) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=E79FWLM24RKTW)
 
-What to do with domains/subdomains that don't resolve anywhere?
+### What to do with domains/subdomains that don't resolve anywhere?
 
 This tool was developed with the main purpose of finding the IP of "dead" domains/subdomains that:
 
