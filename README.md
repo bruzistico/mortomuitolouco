@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/90929569/226085115-9f1bc4ad-a2f5-4c01-
 
 
 
-## Tips
+## Tips [target IPs]
 
 - Search for IP [ASN] targets related to the company that owns the domain
  - Avoid using WAF and Load Balance IPs (These targets can generate a lot of false positives due to their behavior)
